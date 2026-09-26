@@ -1,5 +1,4 @@
-import xml.etree.ElementTree as ET # noqa: N817
-
+import xml.etree.ElementTree as ET  # noqa: N817
 from app.models import Book
 from app.serializers.base import Serializer
 
